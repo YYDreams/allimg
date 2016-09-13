@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C32B2F41D87CB830060208B /* flower.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9C32B2F31D87CB830060208B /* flower.gif */; };
 		9CEA16611D8119DF0083D8EB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CEA16601D8119DF0083D8EB /* main.m */; };
 		9CEA16641D8119DF0083D8EB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CEA16631D8119DF0083D8EB /* AppDelegate.m */; };
 		9CEA16671D8119DF0083D8EB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CEA16661D8119DF0083D8EB /* ViewController.m */; };
@@ -113,6 +114,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9C32B2F31D87CB830060208B /* flower.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = flower.gif; sourceTree = "<group>"; };
 		9CEA165C1D8119DF0083D8EB /* allimg.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = allimg.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CEA16601D8119DF0083D8EB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		9CEA16621D8119DF0083D8EB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -257,6 +259,7 @@
 		9CEA165E1D8119DF0083D8EB /* allimg */ = {
 			isa = PBXGroup;
 			children = (
+				9C32B2F31D87CB830060208B /* flower.gif */,
 				9CEA16921D811A040083D8EB /* Coldplay - Yellow.mp3 */,
 				9CEA16931D811A040083D8EB /* 1.gif */,
 				9CEA16941D811A040083D8EB /* 2.gif */,
@@ -550,6 +553,7 @@
 				9CEA17051D811A040083D8EB /* 47.jpg in Resources */,
 				9CEA16E11D811A040083D8EB /* 1.gif in Resources */,
 				9CEA16FE1D811A040083D8EB /* 40.jpg in Resources */,
+				9C32B2F41D87CB830060208B /* flower.gif in Resources */,
 				9CEA17161D811A040083D8EB /* Snip20160907_45.png in Resources */,
 				9CEA17131D811A040083D8EB /* Snip20160907_42.png in Resources */,
 				9CEA17201D811A040083D8EB /* Snip20160907_61.png in Resources */,
@@ -808,6 +812,7 @@
 				9CEA168B1D8119DF0083D8EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9CEA168C1D8119DF0083D8EB /* Build configuration list for PBXNativeTarget "allimgTests" */ = {
 			isa = XCConfigurationList;
@@ -816,6 +821,7 @@
 				9CEA168E1D8119DF0083D8EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9CEA168F1D8119DF0083D8EB /* Build configuration list for PBXNativeTarget "allimgUITests" */ = {
 			isa = XCConfigurationList;
@@ -824,6 +830,7 @@
 				9CEA16911D8119DF0083D8EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
